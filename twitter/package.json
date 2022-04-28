@@ -1,0 +1,26 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Mi tercer proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tavolordk/twitter.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "octavio olea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tavolordk/twitter/issues"
+  },
+  "homepage": "https://github.com/Tavolordk/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
