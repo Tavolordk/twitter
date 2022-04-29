@@ -1,4 +1,4 @@
-const User=require('../app/User');
+const User=require('../app/models/User');
 
 describe('Testing if User can receive datas with constructor class',()=>{
     test('1)Trying the User class',()=>{
